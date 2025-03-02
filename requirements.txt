@@ -1,0 +1,7 @@
+fitz~=0.0.1.dev2
+langchain-community
+langchain-openai
+openai
+faiss-cpu
+langchain-text-splitters
+langchain
